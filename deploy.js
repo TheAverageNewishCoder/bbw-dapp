@@ -5,14 +5,14 @@ async function main() {
 
   console.log("Deploying the contract with the account:", deployer.address);
 
-  const Token = await hre.ethers.getContractFactory("MyToken");
-  const token = await Token.deploy(hre.ethers.parseEther("1000"));
+  const BBW = await hre.ethers.getContractFactory("BBW");
+  const bbw = await BBW.deploy(hre.ethers.parseEther("1000"));
 
-  await token.waitForDeployment();
+  await bbw.waitForDeployment();
 
-  const contractAddress = await token.getAddress();
+  const contractAddress = await bbw.getAddress();
 
-  console.log("Token deployed to:", contractAddress);
+  console.log("BBW Token deployed to:", contractAddress);
 }
 
 main().catch((error) => {
