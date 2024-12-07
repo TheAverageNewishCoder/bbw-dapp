@@ -1,4 +1,5 @@
-dapp.badbxar.com is now live
+dapp.badbxar.com is now live!
+
 The dapp currently transfers Bad Bxar Wrld's BBW tokens to another account withuot gas fees for end users.
 Below is the general framework that was used to create the dapp. Feel free to use it for your own pruposes.
 
