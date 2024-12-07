@@ -1,16 +1,6 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+dapp.badbxar.com is now live
+The dapp currently transfers Bad Bxar Wrld's BBW tokens to another account withuot gas fees for end users.
+Below is the general framework that was used to create the dapp. Feel free to use it for your own pruposes.
 
 # A Comprehensive Guide to Creating a dApp on the Ethereum Network Using Node.js v20.13.1 and Hardhat v2.22.17
 
