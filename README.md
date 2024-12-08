@@ -1,5 +1,7 @@
 dapp.badbxar.com is now live!
 
+Official BBW tokens are located at 0xCb137e27Af74F2cEA7010433333085d5df82b700 on ethereum and polygon networks with verified contracts.
+
 The dapp currently transfers Bad Bxar Wrld's BBW tokens to another account without gas fees for end users.
 Below is the general framework that was used to create the dapp. Feel free to use it for your own pruposes.
 
